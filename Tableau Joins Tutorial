@@ -1,0 +1,54 @@
+Dashboard Documentation: Tableau Joins Tutorial
+
+1. Purpose of the Tutorial:
+   - Objective: This tutorial guides users through the process of using Tableau to perform various joins on datasets.
+   - Audience: Individuals familiar with Tableau basics seeking to understand and apply joins effectively.
+
+2. Data Overview:
+   - Data Sources:
+      - Demographics Table: Employee ID, Name, Age, Gender.
+      - Job Title Table: Employee ID, Employee Name, Job Title.
+      - Salary Table: Employee ID, Salary.
+
+3. Excel Data Exploration:
+   - Introduction: Walkthrough of the dataset in Excel, emphasizing missing data and differences in column names.
+   - Data Tables:
+      - Demographics: 10 individuals.
+      - Job Title: Incomplete employee ID data.
+      - Salary: Employee ID and Salary information.
+
+4. Tableau Data Connection:
+   - Process:
+      - Connecting Data: Demonstrates connecting Excel sheets in Tableau.
+      - Initial Relationship Inference: Tableau's automatic relationship inference based on common columns.
+      - Relationships vs. Joins: Brief explanation of Tableau's "relationships" and the recommendation to use joins for more control.
+
+5. Understanding Joins:
+   - Inner Join: Visualization demonstrating the common data points between Demographics and Job Title.
+   - Right Join: Showing all from Job Title and matching from Demographics, revealing missing data.
+   - Full Outer Join: Displaying all data from both tables, highlighting the presence or absence of matches.
+   - Left Join: Visualizing all data from Demographics and matching from Job Title, including missing data.
+
+6. Advanced Join Techniques:
+   - Joining on Different Columns: Using employee names instead of IDs for a join.
+   - Impact on Data: Highlighting how choosing different join columns affects the dataset.
+
+7. Building Composite Joins:
+   - Multiple Joins: Demonstrating the possibility of joining on multiple columns for complex scenarios.
+   - Customization: Briefly touching on the options for customization in join clauses.
+
+8. Tableau Worksheet Overview:
+   - Joined Data Sheet: Introduction to the worksheet with visual representation of joined data.
+   - Measure Names/Values: Explanation of how Tableau organizes measures from different tables.
+   - Creating Visualizations: Quick example of creating a simple visualization using the joined data.
+
+9. Dashboard Conclusion:
+   - Saving Joined Data: Renaming and saving the joined dataset.
+   - Worksheet Navigation: Transitioning from data joins to visualizations.
+   - Dashboard Output: A brief glimpse into the dashboard's visual representation of the joined data.
+
+10. Closing Thoughts:
+   - Ease of Tableau Joins: Acknowledgment of Tableau's user-friendly interface for joins.
+   - Encouragement: Encourages users to experiment with joins and understand the implications for visualizations.
+
+This documentation serves as a comprehensive guide for the recipient, offering insights into data exploration, Tableau joins, and the rationale behind the tutorial steps. It's designed to empower users to leverage Tableau effectively for data integration and visualization.
