@@ -8,7 +8,7 @@ In this repository, I present a curated collection of Tableau dashboards that sh
 
 ## Dashboards Highlights
 
-### 1. [Video Game Sales Analysis 🎮] (https://public.tableau.com/views/GlobalSales-GenreBinsBarLinegraphsAreaChartsMaps/DashboardGobal-Genre?:language=en-US&:display_count=n&:origin=viz_share_link)
+### 1. [Video Game Sales Analysis 🎮](https://public.tableau.com/views/GlobalSales-GenreBinsBarLinegraphsAreaChartsMaps/DashboardGobal-Genre?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Uncover the dynamics of video game sales with this interactive dashboard. Dive into genre-year trends, filter data by platform, and explore the impact of the number of bedrooms on average prices. The dashboard includes:
 
@@ -22,7 +22,7 @@ Uncover the dynamics of video game sales with this interactive dashboard. Dive i
 
 
 
-### 2. [Bins and Calculated Fields Tutorial 📊] (https://public.tableau.com/views/GlobalSales-GenreBinsBarLinegraphsAreaChartsMaps/CalculatedFields?:language=en-US&:display_count=n&:origin=viz_share_link)
+### 2. [Bins and Calculated Fields Tutorial 📊](https://public.tableau.com/views/GlobalSales-GenreBinsBarLinegraphsAreaChartsMaps/CalculatedFields?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Explore the power of Tableau's bins and calculated fields functionalities. Understand the rationale behind grouping numerical values into bins and performing complex calculations. The dashboard features:
 
@@ -34,7 +34,7 @@ Explore the power of Tableau's bins and calculated fields functionalities. Under
 ![image](https://github.com/Kahkeshan04/Alex_Tableau_Tutorial/assets/62101356/c17b82bc-1113-4df7-b047-93a8c892b360)
 
 
-### 3. [Starbucks Data Insights ☕] (https://public.tableau.com/views/GlobalSales-GenreBinsBarLinegraphsAreaChartsMaps/AreaChart?:language=en-US&:display_count=n&:origin=viz_share_link)
+### 3. [Starbucks Data Insights ☕](https://public.tableau.com/views/GlobalSales-GenreBinsBarLinegraphsAreaChartsMaps/AreaChart?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Embark on a journey through Starbucks locations worldwide. This dashboard not only guides you through visualizations but also demonstrates the importance of data download processes and introduces alternative visualizations. Key components include:
 
@@ -51,7 +51,7 @@ Embark on a journey through Starbucks locations worldwide. This dashboard not on
 ![image](https://github.com/Kahkeshan04/Alex_Tableau_Tutorial/assets/62101356/1ee86f81-b9a8-47e9-9b32-bb87f87167b9)
 ![image](https://github.com/Kahkeshan04/Alex_Tableau_Tutorial/assets/62101356/470f9253-4d23-41c8-ae7c-f4fe702d7b76)
 
-### 4. [Tableau Joins Tutorial 🤝] (https://public.tableau.com/views/JoinsinTableau_17011473083480/EmployeeNameSalary?:language=en-US&:display_count=n&:origin=viz_share_link)
+### 4. [Tableau Joins Tutorial 🤝](https://public.tableau.com/views/JoinsinTableau_17011473083480/EmployeeNameSalary?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Master the art of joining datasets in Tableau with this tutorial dashboard. From basic inner joins to advanced techniques, this guide includes:
 
@@ -62,7 +62,7 @@ Master the art of joining datasets in Tableau with this tutorial dashboard. From
 ![image](https://github.com/Kahkeshan04/Alex_Tableau_Tutorial/assets/62101356/0e4c415c-410b-40d3-9a25-c42000e39229)
 
 
-### 5. [Airbnb Data Analysis 🏡] (https://public.tableau.com/views/AirBnBFullProject2016_17016054635880/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+### 5. [Airbnb Data Analysis 🏡](https://public.tableau.com/views/AirBnBFullProject2016_17016054635880/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Delve into the world of Airbnb with a detailed analysis of pricing dynamics. The dashboard includes:
 
