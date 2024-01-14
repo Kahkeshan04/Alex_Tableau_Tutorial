@@ -1,0 +1,66 @@
+Tableau Dashboard Documentation: Airbnb Analysis
+
+Introduction:
+This Tableau dashboard is designed to provide a comprehensive analysis of Airbnb data, focusing on key factors influencing pricing, temporal trends, and competition in various neighborhoods.
+
+1. Zip Code Visualization:
+Purpose:
+- Identification of High-Value Areas: The map visualization allows users to quickly identify neighborhoods with higher average prices.
+
+Steps:
+1. Geographical Representation: Using a map provides an intuitive understanding of the distribution.
+2. Average Price Inclusion: Incorporating average prices directly on the map adds context.
+
+Rationale:
+- Spatial Context: A map offers a spatial context, crucial for understanding regional variations in Airbnb pricing.
+- Quick Reference: Including average prices directly on the map aids quick reference and identification.
+
+2. Time Series Analysis:
+Purpose:
+- Temporal Insights: Uncovering patterns in Airbnb pricing over time to guide optimal listing periods.
+
+Steps:
+1. Calendar Data Transformation: Shifting from a static calendar view to a time series representation.
+2. Adjusting Date Granularity: Changing the granularity to weeks for a more actionable view.
+3. Filtering Data: Removing incomplete or outlier data points.
+
+Rationale:
+- Seasonal Trends: By observing trends, users can discern optimal seasons for higher rental income.
+- Data Integrity: Filtering out incomplete or outlier data ensures more accurate insights.
+
+3. Bedroom Analysis:
+Purpose:
+- Impact of Size on Price: Understanding how the number of bedrooms affects average pricing.
+
+Steps:
+1. Converting to Dimension: Transforming bedroom numbers into a dimension for categorical analysis.
+2. Filtering Nulls and Zeros: Eliminating irrelevant data points.
+3. Average Pricing: Utilizing average prices for meaningful comparisons.
+
+Rationale:
+- Categorical Comparison: Converting to dimension facilitates a categorical analysis of the impact of bedroom numbers.
+- Focused Analysis: Removing nulls and zeros ensures a focused analysis on valid data points.
+
+4. Competition Analysis:
+Purpose:
+- Competitor Landscape: Evaluating the distribution of Airbnb listings by the number of bedrooms.
+
+Steps:
+Distinct Count of Listings: Calculating the number of distinct listings for each bedroom type.
+
+Rationale:
+- Market Assessment:** Understanding the count of listings per bedroom type provides insights into market competitiveness.
+- Strategic Planning:** Knowledge of competition aids in strategic decision-making for listing types.
+
+Documentation and Sharing:
+
+Documentation:
+- Caption Inclusion:** Adding captions to visualizations for clarity.
+- Labeling Choices:** Ensuring proper labels on visual elements for user understanding.
+
+Sharing:
+- Tableau Public Link:** The dashboard is shared on Tableau Public for public access and exploration.
+
+---
+
+By following this detailed documentation, users can not only navigate through the dashboard but also understand the reasoning behind each visualization choice, data transformation, and analytical decision, fostering a deeper comprehension of the insights derived from the Airbnb dataset.
