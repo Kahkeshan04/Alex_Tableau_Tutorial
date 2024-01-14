@@ -1,0 +1,58 @@
+Dashboard Documentation: Bins and Calculated Fields Tutorial
+
+1. Purpose of the Dashboard:
+   - Objective: The primary goal of this dashboard is to explore the concept of bins and calculated fields in Tableau.
+   - Audience: This dashboard is designed for individuals who want to understand how to group numerical values into bins and perform calculations using calculated fields in Tableau.
+
+2. Dataset Used:
+   - Dataset Name: "Video Game Sales"
+   - Fields Utilized: The primary focus is on numeric fields, specifically the "year" and "global sales."
+   - Snapshot: The dataset includes information such as rank, name, platform, year, genre, and various sales data.
+
+3. Steps Taken to Create the Dashboard:
+
+3.1. Bins:
+   - Purpose: Bins are employed to group numerical values, providing a clearer representation of data distribution.
+   - Step 1: Identified the numeric field suitable for binning - in this case, the "year."
+   - Step 2: Accessed the "Create" option in the dropdown menu of the "year" field.
+   - Step 3: Set bin size to 5 for better granularity.
+   - Step 4: Bins were named descriptively, such as "1990-1994," "1995-1999," etc.
+   - Note: Null values in the "year" field were excluded for demonstration purposes.
+
+3.2. Calculated Fields:
+   - Purpose: Calculated fields were utilized to compute the percentage of global sales within each bin.
+   - Step 1: Implemented a quick table calculation for "Percent of Total" to get an immediate percentage breakdown.
+   - Step 2: Saved the quick calculation as a measure for future use.
+   - Step 3: Demonstrated the creation of a custom calculated field: "Global Sales Minus EU Sales."
+      - Utilized basic arithmetic operations (subtraction in this case).
+      - Highlighted the ability to save calculated fields for reuse.
+
+4. Explanation of Visual Elements:
+
+4.1. Bins Visualization:
+   - Representation: The dashboard displays the binned years along with the associated global sales.
+   - Insight: Clear trends in sales over specific year ranges, e.g., a surge in sales during the years 2000-2004.
+
+4.2. Percentage Breakdown:
+   - Representation: A table calculation provides the percentage contribution of each bin to the total global sales.
+   - Insight: Easily identifies the proportion of sales each bin contributes to the overall dataset.
+
+4.3. Calculated Field Comparison:
+   - Representation: A comparison of global sales and the calculated field "Global Sales Minus EU Sales" for selected bins.
+   - Insight: Highlights the capability of calculated fields to reveal nuanced insights, such as regional sales differences.
+
+5. Filters and Interaction:
+   - Filtering: Explanations on how filters can be applied to refine data, e.g., excluding null values or filtering specific years or platforms.
+   - Interaction: Encourages users to experiment with filters to dynamically explore data subsets.
+
+6. Conclusion:
+   - Summary: The dashboard concludes by emphasizing the versatility of bins and calculated fields in revealing insights within datasets.
+   - Encouragement: Users are encouraged to explore, manipulate filters, and derive further insights based on their specific interests or questions.
+
+7. Next Steps:
+   - Preview: A sneak peek into upcoming tutorials, possibly covering advanced visualizations or additional functionalities in Tableau.
+
+8. Additional Notes:
+   - Educational Context: The tutorial is designed for educational purposes, allowing users to understand not only what steps were taken but why and how.
+
+This documentation aims to provide clarity on the purpose, steps, and insights derived from the Tableau dashboard on bins and calculated fields. It encourages an interactive exploration of the data and serves as a comprehensive guide for users.
