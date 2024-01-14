@@ -1,61 +1,59 @@
-### Dashboard Documentation
+Dashboard Documentation
 
-#### Dashboard Title: [Video Game Sales Analysis](https://public.tableau.com/views/GlobalSales-GenreBinsBarLinegraphsAreaChartsMaps/DashboardGobal-Genre?:language=en-US&:display_count=n&:origin=viz_share_link)
+Dashboard Title: Video Game Sales Analysis
 
-### Overview:
+Overview:
 
 This dashboard utilizes the "Video Game Sales" dataset to visualize and analyze trends in video game sales across different genres and platforms. The main components of the dashboard include:
 
-1. **Line Chart by Genre and Year:**
-   - **Purpose:** To visualize how global sales have evolved over the years for different video game genres.
-   - **Steps Taken:**
+1. Line Chart by Genre and Year:
+   - Purpose: To visualize how global sales have evolved over the years for different video game genres.
+   - Steps Taken:
      - Rows: Global Sales
      - Columns: Year
      - Color: Genre
-   - **Explanation:**
+   - Explanation:
      - Enables a quick comparison of sales trends across various genres.
      - Color-coded lines enhance visual distinction.
 
-![image](https://github.com/Kahkeshan04/Alex_Tableau_Tutorial/assets/62101356/11b55a19-1060-4352-a01b-1190521955f4)
-
-2. **Filter by Platform:**
-   - **Purpose:** To allow users to focus on sales data for specific gaming platforms.
-   - **Steps Taken:**
+2. Filter by Platform:
+   - Purpose: To allow users to focus on sales data for specific gaming platforms.
+   - Steps Taken:
      - Applied a platform filter to include or exclude specific platforms.
-   - **Explanation:**
+   - Explanation:
      - Provides flexibility to users based on their interest in specific gaming platforms.
 
-3. **Labels for Clarity:**
-   - **Purpose:** Enhances readability by providing additional information on data points.
-   - **Steps Taken:**
+3. Labels for Clarity:
+   - Purpose: Enhances readability by providing additional information on data points.
+   - Steps Taken:
      - Added labels for genres and years.
-   - **Explanation:**
+   - Explanation:
      - Labels at line ends provide exact values for each genre and year.
      - Improves user understanding of data points.
 
-### Why These Steps:
+Why These Steps:
 
-1. **Genre-Year Analysis:**
-   - **Reasoning:**
+1. Genre-Year Analysis:
+   - Reasoning:
      - Understanding how sales vary by genre and year is fundamental for identifying trends and patterns.
      - Helps in recognizing genres that consistently perform well or show fluctuations.
 
-2. **Platform Filtering:**
-   - **Reasoning:**
+2. Platform Filtering:
+   - Reasoning:
      - Users may have specific interests in platforms. Filtering enables a more targeted analysis.
      - Allows for a focused examination of sales data for selected platforms.
 
-3. **Labels for Precision:**
-   - **Reasoning:**
+3. Labels for Precision:
+   - Reasoning:
      - Labels add precision by displaying exact values on the chart.
      - Essential for users who seek specific numerical information for data points.
 
-### Dataset Details:
+Dataset Details:
 
-- **Dataset Used:** "Video Game Sales"
-- **Fields Utilized:** Rank, Name, Platform, Year, Genre, Global Sales
-- **Contents:** Comprehensive information on video game sales, including platform, release year, genre, and global sales figures.
+- Dataset Used: "Video Game Sales"
+- Fields Utilized: Rank, Name, Platform, Year, Genre, Global Sales
+- Contents: Comprehensive information on video game sales, including platform, release year, genre, and global sales figures.
 
-### Conclusion:
+Conclusion:
 
 This dashboard provides an effective means of analyzing video game sales data. The combination of a genre-year line chart, platform filters, and precise labels offers users a versatile tool for exploring trends and making informed observations about the dataset. The steps taken in creating this dashboard ensure clarity, interactivity, and relevance to the user's analytical needs.
